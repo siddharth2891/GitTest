@@ -72,7 +72,7 @@ select SUBSTRING('siddharth.goud.1234@gmail.com' ,1,5)
 +replicate('*',4)+ CHARINDEX ('@', 'siddharth.goud.1234@gmail.com')
 + select SUBSTRING('siddharth.goud.1234@gmail.com',20,24)
 
-
+Added test line to compare with local 
 
 
 
